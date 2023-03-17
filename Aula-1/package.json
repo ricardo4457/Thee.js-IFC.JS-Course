@@ -1,0 +1,14 @@
+{
+  "name": "course",
+  "version": "0.0.1",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eu",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.130.0"
+  }
+}
